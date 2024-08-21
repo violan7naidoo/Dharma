@@ -1,0 +1,140 @@
+[33mcommit 5d58d519c2385eb7e0589f2854c9a3402ff629a8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Wed Aug 21 13:37:36 2024 +0200
+
+    first-commit
+
+[33mcommit ad0f6515addb6fd909c12eccfff57a31b7611df8[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Wed Aug 21 11:07:55 2024 +0200
+
+    wonderlandsa-landing-page2
+
+[33mcommit edbe2be49074f514a452a50a17852bd9fe3f7db5[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Wed Aug 21 11:05:00 2024 +0200
+
+    wonderlandsa-landing-page
+
+[33mcommit edc4dbe0c75472bc58c4f73b71b73756a769fb5c[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Tue Apr 2 12:03:12 2024 +0200
+
+    updatefooter
+
+[33mcommit 7ee8e217b23025926795df56b335b502af335dde[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Wed Mar 27 10:07:36 2024 +0200
+
+    payfastintegration
+
+[33mcommit 8370fa19374882bdc35a03f90c7659d96d59d5b4[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Mon Mar 25 20:36:11 2024 +0200
+
+    payfastcheckoutnow
+
+[33mcommit 53e3aba3b096f8ff0846eccec3870dfe8627af71[m
+Merge: bc9e560 c9ca91c
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Fri Mar 22 15:13:31 2024 +0200
+
+    Merge branch 'main' of https://github.com/violan7naidoo/SensoryWonderland
+
+[33mcommit bc9e560e46ed8a09eca53adb09c58da00d48ceda[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Fri Mar 22 15:13:07 2024 +0200
+
+    payfast
+
+[33mcommit c9ca91ca3aa416a520f04a6beebcad90f68725bf[m
+Author: violan7naidoo <76399629+violan7naidoo@users.noreply.github.com>
+Date:   Mon Mar 18 10:14:40 2024 +0200
+
+    Update next.config.js
+
+[33mcommit 06f2e4024a27ed4977045f9cf00c97bf0eae0446[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Fri Mar 15 18:39:56 2024 +0200
+
+    Revert "popular-products"
+    
+    This reverts commit 6ebfd26ed25678176f438d0341bf8ac609e3f233.
+
+[33mcommit 9c387d19d21c7117a9653742e0413575ea8a6e84[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Fri Mar 15 09:16:05 2024 +0200
+
+    addingsortingproducts
+
+[33mcommit 6ebfd26ed25678176f438d0341bf8ac609e3f233[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Thu Mar 14 18:01:02 2024 +0200
+
+    popular-products
+
+[33mcommit 25957ae98db85a3265819d20b0b158d77f373e84[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Thu Mar 14 17:54:51 2024 +0200
+
+    next-config4
+
+[33mcommit dbd0e28cef31f75e6193e1ec5fcccb0db5103168[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Thu Mar 14 17:49:47 2024 +0200
+
+    next-confid2
+
+[33mcommit 88bbbda1b3730d3336aba418c6e64f8c27fcf3e4[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Thu Mar 14 17:48:57 2024 +0200
+
+    hero
+
+[33mcommit 93209b6ea27040e564f6915c67b8e19c88177350[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Thu Mar 14 16:43:16 2024 +0200
+
+    hero-footer-change3
+
+[33mcommit 5d50fe398abd438cb95e8b329ae06b5ff1ce7223[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Thu Mar 14 16:39:39 2024 +0200
+
+    hero-footer-change2
+
+[33mcommit cb4a1231de5053ebc761392d2d2606a272cc7c49[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Thu Mar 14 15:35:10 2024 +0200
+
+    hero-footer-change
+
+[33mcommit 18ac8c481cbcc4d00abc09dd71c4afb1c567e1dc[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Wed Mar 13 17:34:58 2024 +0200
+
+    scategory
+
+[33mcommit ceceb5db8cab6498c5f3660cda526eb7d34474ec[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Wed Mar 13 15:14:16 2024 +0200
+
+    sensory
+
+[33mcommit cb6674d3f87dda76c873bbeb05b84dd6a90d1e41[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Tue Mar 12 10:41:49 2024 +0200
+
+    nextconfig
+
+[33mcommit 7136072bd4772a87b358685ece1e6672e32cbc3c[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Tue Mar 12 10:36:02 2024 +0200
+
+    nextconfig
+
+[33mcommit 27ca714892a1eb5d4b8eccc6ab0735054226d4b3[m
+Author: violan7naidoo <violan7naidoo@gmail.com>
+Date:   Tue Mar 12 10:17:59 2024 +0200
+
+    first commit
