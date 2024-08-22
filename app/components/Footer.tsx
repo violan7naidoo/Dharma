@@ -4,18 +4,19 @@ import TikTokIcon from "../../components/ui/TikTok";
 
 const Footer: React.FC = () => {
   return (
-    <footer className="bg-gray-800 text-white py-8">
+    <footer className="bg-gradient-to-r from-white via-pink-200 to-white text-black py-8">
       <div className="mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl">
         <div className="flex flex-wrap justify-between">
           <div className="mb-4 w-full sm:w-1/2 lg:w-1/4">
-            <h2 className="text-xl font-bold mb-2 text-lg font-semibold text-primary">
+            <h2 className="text-xl font-bold text-blue-900">
               Dharma Beauty
             </h2>
+            <h3 className="mb-2 text-blue-900">EST 2024</h3>
             <ul className="list-none">
               <li>
                 <a
                   href="/"
-                  className="hover:text-gray-400 transition duration-200"
+                  className="hover:text-blue-900 transition duration-200"
                 >
                   Home
                 </a>
@@ -23,7 +24,7 @@ const Footer: React.FC = () => {
               <li>
                 <a
                   href="/Pigmentation-Serum"
-                  className="hover:text-gray-400 transition duration-200"
+                  className="hover:text-blue-900 transition duration-200"
                 >
                   Pigmentation Serum
                 </a>
@@ -31,7 +32,7 @@ const Footer: React.FC = () => {
               <li>
                 <a
                   href="/L-Glutathione-Scrub"
-                  className="hover:text-gray-400 transition duration-200"
+                  className="hover:text-blue-900 transition duration-200"
                 >
                   L-Glutathione Scrub
                 </a>
@@ -39,7 +40,7 @@ const Footer: React.FC = () => {
               <li>
                 <a
                   href="/Kojic-Scrub"
-                  className="hover:text-gray-400 transition duration-200"
+                  className="hover:text-blue-900 transition duration-200"
                 >
                   Kojic Scrub
                 </a>
@@ -48,12 +49,14 @@ const Footer: React.FC = () => {
           </div>
 
           <div className="mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl">
-            <h2 className="text-xl font-bold mb-2">Connect With Us </h2>
+            <h2 className="text-xl font-bold mb-2 text-blue-900">
+              Connect With Us{" "}
+            </h2>
             <ul className="list-none">
               <li>
                 <a
                   href="/"
-                  className="hover:text-gray-400 transition duration-200"
+                  className="hover:text-blue-900 transition duration-200"
                 >
                   Call Shiv : 067 089 2781
                 </a>
@@ -65,7 +68,7 @@ const Footer: React.FC = () => {
                     href="#"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="hover:text-gray-400 transition duration-200"
+                    className="hover:text-blue-900 transition duration-200"
                   >
                     <FaFacebook />
                   </a>
@@ -75,7 +78,7 @@ const Footer: React.FC = () => {
                     href="#"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="hover:text-gray-400 transition duration-200"
+                    className="hover:text-blue-900 transition duration-200"
                   >
                     <TikTokIcon />
                   </a>
@@ -85,7 +88,7 @@ const Footer: React.FC = () => {
                     href="#"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="hover:text-gray-400 transition duration-200"
+                    className="hover:text-blue-900 transition duration-200"
                   >
                     <FaInstagram />
                   </a>
@@ -100,7 +103,7 @@ const Footer: React.FC = () => {
             href="https://ve3z.co.za/"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:text-gray-400 transition duration-200"
+            className="hover:text-blue-900 transition duration-200"
           >
             Design by ve3z
           </a>

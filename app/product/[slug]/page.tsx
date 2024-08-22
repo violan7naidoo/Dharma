@@ -35,7 +35,7 @@ export default async function ProductPge({
   const data: fullProduct = await getData(params.slug);
 
   return (
-    <div className="bg-white">
+    <div className="bg-white bg-gradient-to-r from-white via-pink-200 to-white">
       <div className="mx-auto max-w-screen-xl px-4 md:px-8">
         <div className="grid gap-8 md:grid-cols-2">
           <ImageGallery images={data.images} />
@@ -52,7 +52,7 @@ export default async function ProductPge({
 
             <div className="mb-6 flex items-center gap-3 md:mb-10">
               <Button className="rounded-full gap-x-2">
-                <span className="text-sm">4.2</span>
+                <span className="text-sm">4.9</span>
                 <Star className="h-5 w-5" />
               </Button>
 
@@ -66,8 +66,8 @@ export default async function ProductPge({
                 <span className="text-xl font-bold text-gray-800 md:text-2xl">
                   R{data.price}
                 </span>
-                <span className="mb-0.5 text-red-500 line-through">
-                  R{data.price + 30}
+                <span className="mb-0.5 text-pink-500 line-through">
+                  R{data.price + 400}
                 </span>
               </div>
 
