@@ -1,5 +1,5 @@
 import React from "react";
-import { FaFacebook, FaInstagram } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaWhatsapp } from "react-icons/fa";
 import TikTokIcon from "../../components/ui/TikTok";
 
 const Footer: React.FC = () => {
@@ -8,9 +8,10 @@ const Footer: React.FC = () => {
       <div className="mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl">
         <div className="flex flex-wrap justify-between">
           <div className="mb-4 w-full sm:w-1/2 lg:w-1/4">
-            <h2 className="text-xl font-bold text-blue-900">
+            <h2 className="text-xl font-bold text-blue-900 playfair-display-header">
               Dharma Beauty
             </h2>
+
             <h3 className="mb-2 text-blue-900">EST 2024</h3>
             <ul className="list-none">
               <li>
@@ -55,7 +56,7 @@ const Footer: React.FC = () => {
             <ul className="list-none">
               <li>
                 <a
-                  href="/"
+                  href="tel:0670892781"
                   className="hover:text-blue-900 transition duration-200"
                 >
                   Call Shiv : 067 089 2781
@@ -63,7 +64,7 @@ const Footer: React.FC = () => {
               </li>
               <li></li>
               <li className=" flex items-center mx-auto mt-2 ">
-                <span className="text-xl mr-2">
+                {/* <span className="text-xl mr-2">
                   <a
                     href="#"
                     target="_blank"
@@ -82,15 +83,26 @@ const Footer: React.FC = () => {
                   >
                     <TikTokIcon />
                   </a>
-                </span>
+                </span> */}
                 <span className="text-xl">
                   <a
-                    href="#"
+                    href="https://www.instagram.com/dharmabeauty__sa"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:text-blue-900 transition duration-200 mr-4"
+                  >
+                    <FaInstagram />
+                  </a>
+                </span>
+                {/* WhatsApp Icon */}
+                <span className="text-xl">
+                  <a
+                    href="https://wa.me/0670892781"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-blue-900 transition duration-200"
                   >
-                    <FaInstagram />
+                    <FaWhatsapp />
                   </a>
                 </span>
               </li>

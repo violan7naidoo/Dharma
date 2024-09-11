@@ -18,11 +18,11 @@ export default async function Hero() {
     <section className="mx-auto max-w-2xl px-4 sm:pb-6 lg:max-w-7xl lg:px-8 bg-gradient-to-r from-white via-pink-200 to-white">
       <div className="mb-8 flex flex-wrap justify-between md:mb-16">
         <div className="mb-6 flex w-full flex-col justify-center sm:mb-12 lg:mb-0 lg:w-1/3 lg:pb-24 lg:pt-48">
-          <h1 className="mb-4 text-4xl font-bold text-blue-900 sm:text-5xl md:mb-8 md:text-6xl">
+          <h1 className="mb-4 text-4xl playfair-display-custom text-blue-900 sm:text-5xl md:mb-8 md:text-6xl">
             Dharma Beauty
           </h1>
 
-          <p className="max-w-md leading-relaxed text-yellow-500 xl:text-lg">
+          <p className="max-w-md leading-relaxed text-black-500 xl:text-lg">
             Discover high-quality Dharma products that make your skin glow.
           </p>
         </div>
