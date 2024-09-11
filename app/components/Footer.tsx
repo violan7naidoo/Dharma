@@ -50,9 +50,10 @@ const Footer: React.FC = () => {
           </div>
 
           <div className="mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl">
-            <h2 className="text-xl font-bold mb-2 text-blue-900">
-              Connect With Us{" "}
+            <h2 className="text-xl font-bold mb-2 text-blue-900 playfair-display">
+              Connect With Us
             </h2>
+
             <ul className="list-none">
               <li>
                 <a
