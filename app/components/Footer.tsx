@@ -98,7 +98,7 @@ const Footer: React.FC = () => {
                 {/* WhatsApp Icon */}
                 <span className="text-xl">
                   <a
-                    href="https://wa.me/0670892781"
+                    href="https://wa.me/27670892781"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-blue-900 transition duration-200"
