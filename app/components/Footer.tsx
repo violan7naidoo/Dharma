@@ -90,7 +90,7 @@ const Footer: React.FC = () => {
                     href="https://www.instagram.com/dharmabeauty__sa"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="hover:text-blue-900 transition duration-200 mr-4"
+                    className="hover:text-blue-900 transition duration-200"
                   >
                     <FaInstagram />
                   </a>
