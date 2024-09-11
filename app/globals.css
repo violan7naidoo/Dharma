@@ -16,7 +16,7 @@
 
 /* Apply Global Font - Poppins */
 html {
-  font-family: "Poppins", sans-serif;
+  font-family: "Playfair Display", serif;
 }
 
 /* Apply Qwitcher Grypen Font to Specific Elements */
@@ -27,7 +27,7 @@ h4,
 h5,
 h6,
 .special-font {
-  font-family: "Poppins", "Qwitcher Grypen", cursive;
+  font-family: "Playfair Display", serif;
 }
 
 @layer base {

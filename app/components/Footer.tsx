@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
       <div className="mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl">
         <div className="flex flex-wrap justify-between">
           <div className="mb-4 w-full sm:w-1/2 lg:w-1/4">
-            <h2 className="text-xl font-bold text-blue-900 playfair-display-header">
+            <h2 className="text-xl font-bold text-blue-900 playfair-display">
               Dharma Beauty
             </h2>
 
