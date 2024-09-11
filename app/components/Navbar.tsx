@@ -20,7 +20,7 @@ export default function Navbar() {
     <header className="mb-8 border-b">
       <div className="flex items-center justify-between mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl">
         <Link href="/">
-          <h1 className="text-2xl md:text-4xl playfair-display-custom">
+          <h1 className="text-2xl md:text-4xl playfair-display">
             Dharma<span className="text-blue-900">Beauty</span>
           </h1>
         </Link>
